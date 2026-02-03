@@ -4,7 +4,7 @@ L'application vise à gérer les demandes d'interventions pour des installations
 
 - Inscriptions : Permet l'inscription de différentes entreprises (OP, AG, IN) avec un nom associé.
 - Gestion des missions :
-Attribution de missions avec des niveaux de rémunération.
+*Attribution de missions avec des niveaux de rémunération.
 Consultation des missions disponibles.
 Affichage des détails d'une mission spécifique.
 Acceptation des missions par les opérateurs (OP).
@@ -12,8 +12,9 @@ Acceptation des missions par les opérateurs (OP).
 - Rapports : Gestion des rapports associés aux missions.
 - Récapitulatif : Affichage d'un récapitulatif des missions pour une entreprise spécifiée, incluant celles non attribuées, attribuées, terminées, à réaliser et réalisées.
 
-\nEntrées :
+Entrées :
 - Les utilisateurs fournissent des commandes sous forme de chaînes de caractères pour effectuer des actions telles que l'inscription, la création de missions, la consultation, etc.
+
 Sortie :
 - L'application produit des messages de confirmation ou d'erreur en fonction des actions de l’utilisateur.
 - Les détails des missions, y compris les rapports associés, sont affichés lors de la consultation et des détails des missions.
