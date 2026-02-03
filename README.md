@@ -12,7 +12,7 @@ Acceptation des missions par les opérateurs (OP).
 - Rapports : Gestion des rapports associés aux missions.
 - Récapitulatif : Affichage d'un récapitulatif des missions pour une entreprise spécifiée, incluant celles non attribuées, attribuées, terminées, à réaliser et réalisées.
 
-Entrées :
+\nEntrées :
 - Les utilisateurs fournissent des commandes sous forme de chaînes de caractères pour effectuer des actions telles que l'inscription, la création de missions, la consultation, etc.
 Sortie :
 - L'application produit des messages de confirmation ou d'erreur en fonction des actions de l’utilisateur.
