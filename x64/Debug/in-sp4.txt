@@ -1,0 +1,201 @@
+inscription OP Decima
+consultation
+mission 1 client1 17.481834
+detail 1
+recapitulatif 1
+mission 1 client2 14.567911
+recapitulatif 1
+consultation
+mission 1 client3 16.922943
+detail 1
+consultation
+mission 1 client4 17.287283
+detail 1
+inscription IN SATCOMS
+consultation
+mission 1 client5 11.397602
+detail 2
+consultation
+mission 1 client6 6.890319
+mission 1 client7 17.730091
+inscription IN INEO
+inscription IN Deltacom
+detail 3
+mission 1 client8 13.050403
+consultation
+acceptation 4 3
+mission 1 client9 18.589413
+recapitulatif 4
+mission 1 client10 7.9437246
+recapitulatif 1
+mission 1 client11 9.195204
+mission 1 client12 5.3864956
+rapport 3 0
+consultation
+inscription OP ALCETIS
+acceptation 2 9
+consultation
+inscription IN IPSICOM
+detail 12
+mission 1 client13 19.955734
+mission 5 client14 18.185074
+detail 10
+acceptation 3 10
+recapitulatif 2
+recapitulatif 4
+inscription IN Eurocom
+acceptation 6 5
+consultation
+inscription AG Foliateam
+mission 5 client15 6.319081
+sous-traitance 8 1 5.521011
+mission 1 client17 12.311977
+acceptation 7 4
+rapport 10 1
+inscription AG Free
+sous-traitance 9 17 16.058521
+detail 15
+detail 2
+acceptation 2 7
+detail 19
+recapitulatif 5
+mission 1 client20 10.4251175
+acceptation 4 16
+sous-traitance 9 13 11.583974
+inscription OP AGISCOM
+sous-traitance 8 6 5.539166
+sous-traitance 9 20 16.782766
+acceptation 4 23
+consultation
+sous-traitance 9 19 17.139824
+inscription AG MARLINK
+recapitulatif 1
+detail 8
+acceptation 3 14
+detail 12
+recapitulatif 8
+inscription IN Brunet
+mission 1 client25 15.25607
+detail 15
+consultation
+inscription IN SERTELCOM
+sous-traitance 11 15 16.745523
+detail 8
+inscription IN SYBORD
+sous-traitance 9 12 5.5590134
+mission 5 client28 15.244535
+consultation
+mission 5 client29 13.561518
+sous-traitance 11 29 8.649786
+rapport 14 0
+recapitulatif 8
+consultation
+acceptation 2 26
+sous-traitance 9 8 19.737251
+acceptation 13 22
+acceptation 9 21
+inscription IN Bouyges
+sous-traitance 8 28 5.372361
+consultation
+mission 1 client33 19.086725
+consultation
+detail 2
+acceptation 6 11
+inscription IN ALP'COM
+sous-traitance 9 25 17.973366
+recapitulatif 13
+acceptation 7 24
+sous-traitance 9 30 5.4302745
+recapitulatif 3
+consultation
+detail 2
+consultation
+recapitulatif 6
+recapitulatif 9
+mission 5 client36 6.6617775
+inscription IN Celeste-Fibre
+consultation
+recapitulatif 5
+inscription OP Techno-Fibre
+inscription IN CIRCET
+rapport 9 0
+acceptation 16 32
+sous-traitance 9 2 19.168411
+consultation
+inscription IN EERT
+rapport 23 2
+acceptation 20 33
+sous-traitance 11 36 16.520397
+detail 35
+consultation
+sous-traitance 9 31 5.7083964
+detail 18
+consultation
+mission 10 client41 12.326066
+sous-traitance 9 27 8.424672
+inscription IN CITEL
+mission 10 client43 8.510397
+sous-traitance 8 40 12.258614
+inscription AG SIMTEL
+detail 34
+sous-traitance 11 18 19.714487
+consultation
+acceptation 22 41
+inscription AG Sobeca
+detail 44
+inscription IN AFFA.COM
+mission 5 client46 18.845383
+recapitulatif 20
+consultation
+recapitulatif 10
+sous-traitance 23 38 6.0644836
+acceptation 14 34
+acceptation 20 45
+acceptation 21 35
+sous-traitance 23 46 13.709131
+recapitulatif 20
+inscription IN DALIANA
+mission 1 client49 17.39455
+sous-traitance 8 48 8.82387
+recapitulatif 14
+detail 43
+detail 44
+rapport 24 1
+sous-traitance 8 44 16.783468
+rapport 5 0
+detail 49
+detail 37
+rapport 34 1
+sous-traitance 11 37 6.2625113
+recapitulatif 11
+recapitulatif 22
+rapport 26 2
+acceptation 13 51
+recapitulatif 11
+sous-traitance 11 47 17.618206
+detail 50
+acceptation 16 55
+mission 18 client57 17.04498
+acceptation 23 54
+consultation
+rapport 16 0
+mission 5 client58 10.897082
+consultation
+detail 50
+acceptation 21 52
+sous-traitance 23 57 15.199197
+sous-traitance 8 56 13.945284
+detail 60
+sous-traitance 8 60 16.516006
+detail 59
+sous-traitance 9 61 17.912218
+rapport 52 2
+consultation
+detail 62
+consultation
+mission 1 client64 14.272271
+rapport 4 1
+rapport 11 2
+recapitulatif 21
+acceptation 16 59
+exit
